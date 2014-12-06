@@ -1,3 +1,3 @@
 angular_test
 ============
-This is used for testing and tutorial purpose.
+This repository is used for testing and tutorial purpose.
